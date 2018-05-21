@@ -1,0 +1,2 @@
+# assets
+pic_repo
